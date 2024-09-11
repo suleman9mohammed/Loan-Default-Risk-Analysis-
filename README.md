@@ -1,5 +1,8 @@
 # Loan Default Risk Analysis using Advanced Exploratory Data Analysis (EDA)
 
+Download the dataset from the link below.  
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
 ### Repository Name: Advanced-Loan-Risk-EDA-Analysis
 
 ## Project Overview
